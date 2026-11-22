@@ -9,6 +9,8 @@ This is a small, self-contained website. It does not need Node, an account, or a
 3. Open [http://localhost:8000](http://localhost:8000) in your browser.
 4. To stop the local website, click the command window and press **Ctrl+C**.
 
+To open it on a phone, connect the phone to the same Wi-Fi as this computer. Find the computer’s IPv4 address by running `ipconfig` and enter `http://<computer-ip>:8000` in the phone’s browser. Keep the computer awake and the server window open while viewing it.
+
 You can also open `index.html` directly, but the local server gives the most reliable preview.
 
 ## What the preview can do
